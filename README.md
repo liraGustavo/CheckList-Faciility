@@ -8,6 +8,6 @@ Por esse motivo, uma aplicação foi idealizada para a criação e o gerenciamen
 ### Descrição do Projeto:
 O gerenciador de projetos foi desenvolvido para auxiliar na gestão de projetos e/ou atividades, atendendo as necessidades de pessoas físicas e jurídicas.  A plataforma desenvolvida realizará as funções de criar, editar, pesquisar e remover tanto para projetos quantos suas atividades diárias.
 
-###Demonstração
+###
 Vídeo demonstração do projeto
 https://youtu.be/2i5n8o1Catk
