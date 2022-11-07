@@ -10,4 +10,5 @@ O gerenciador de projetos foi desenvolvido para auxiliar na gestão de projetos 
 
 ###
 Vídeo demonstração do projeto
-https://youtu.be/2i5n8o1Catk
+
+https://youtu.be/aGYLLCQ-Oeo
